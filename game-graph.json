@@ -322,12 +322,8 @@
             "startId": "NPOP_Bryson_Extra_Yard_00",
             "endId": "NPOP_Bryson_Extra_Yard_01"
         },
-        "SPOP_Bryson_Extra_Yard_02": {
-            "startId": "NPOP_Bryson_Extra_Yard_01",
-            "endId": "NPOP_Bryson_Extra_Yard_02"
-        },
         "SPOP_Bryson_Extra_Yard_03": {
-            "startId": "NPOP_Bryson_Extra_Yard_02",
+            "startId": "NPOP_Bryson_Extra_Yard_01",
             "endId": "NPOP_Bryson_Extra_Yard_03"
         },
         "SPOP_Bryson_Extra_Yard_04": {
