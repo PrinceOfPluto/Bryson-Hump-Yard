@@ -2,9 +2,9 @@
     "nodes": {
         "NPOP_Bryson_Extra_Yard_00": {
             "position": {
-                "x": 5059.86,
-                "y": 530.22,
-                "z": 5777.14
+                "x": 5052.17,
+                "y": 530.06,
+                "z": 5789.71
             },
             "rotation": {
                 "x": 0,
@@ -14,9 +14,9 @@
         },
         "NPOP_Bryson_Extra_Yard_01": {
             "position": {
-                "x": 5032.09,
+                "x": 5028.13,
                 "y": 529.00,
-                "z": 5821.94
+                "z": 5828.41
             },
             "rotation": {
                 "x": 0,
@@ -26,9 +26,9 @@
         },
         "NPOP_Bryson_Extra_Yard_03": {
             "position": {
-                "x": 5026.89,
+                "x": 5024.16,
                 "y": 529.00,
-                "z": 5830.30
+                "z": 5834.76
             },
             "rotation": {
                 "x": 0,
@@ -98,9 +98,9 @@
         },
         "NPOP_Bryson_Extra_Yard_09": {
             "position": {
-                "x": 4990.62,
+                "x": 4990.29,
                 "y": 529.00,
-                "z": 5887.69
+                "z": 5888.71
             },
             "rotation": {
                 "x": 0,
@@ -140,7 +140,7 @@
             },
             "rotation": {
                 "x": 0,
-                "y": 337.08,
+                "y": 331.77,
                 "z": 0
             }
         },
@@ -324,6 +324,10 @@
         },
         "SPOP_Bryson_Extra_Yard_02": {
             "startId": "NPOP_Bryson_Extra_Yard_01",
+            "endId": "NPOP_Bryson_Extra_Yard_02"
+        },
+        "SPOP_Bryson_Extra_Yard_03": {
+            "startId": "NPOP_Bryson_Extra_Yard_02",
             "endId": "NPOP_Bryson_Extra_Yard_03"
         },
         "SPOP_Bryson_Extra_Yard_04": {
