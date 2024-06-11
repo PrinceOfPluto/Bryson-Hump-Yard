@@ -1,0 +1,22 @@
+{
+    "manifestVersion": 5,
+    "id": "PrinceOfPluto.BrysonExtraYard",
+    "name": "Pluto's Bryson Extra Yard",
+    "version": "1.0",
+    "requires": [
+      {
+        "id": "railloader",
+        "notBefore": "1.7.2"
+      },
+      {
+        "id": "Zamu.StrangeCustoms",
+        "notBefore": "1.6.24074.728"
+      },
+      {
+        "id": "AlinaNova21.AlinasMapMod"
+      }
+    ],
+    "mixintos": {
+      "game-graph": "file(game-graph.json)"
+    }
+  }

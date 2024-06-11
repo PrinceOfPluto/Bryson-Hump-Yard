@@ -1,0 +1,438 @@
+{
+    "nodes": {
+        "NPOP_Bryson_Extra_Yard_00": {
+            "position": {
+                "x": 5059.86,
+                "y": 530.22,
+                "z": 5777.14
+            },
+            "rotation": {
+                "x": 0,
+                "y": 328.54,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_01": {
+            "position": {
+                "x": 5032.09,
+                "y": 529.00,
+                "z": 5821.94
+            },
+            "rotation": {
+                "x": 0,
+                "y": 328.54,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_02": {
+            "position": {
+                "x": 5026.89,
+                "y": 529.00,
+                "z": 5830.30
+            },
+            "rotation": {
+                "x": 0,
+                "y": 328.54,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_03": {
+            "position": {
+                "x": 5026.89,
+                "y": 529.00,
+                "z": 5830.30
+            },
+            "rotation": {
+                "x": 0,
+                "y": 328.54,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_04": {
+            "position": {
+                "x": 4985.79,
+                "y": 529.00,
+                "z": 5942.50
+            },
+            "rotation": {
+                "x": 0,
+                "y": 344.14,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_05": {
+            "position": {
+                "x": 5007.21,
+                "y": 529.00,
+                "z": 5861.87
+            },
+            "rotation": {
+                "x": 0,
+                "y": 328.54,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_06": {
+            "position": {
+                "x": 4969.32,
+                "y": 529.00,
+                "z": 6001.03
+            },
+            "rotation": {
+                "x": 0,
+                "y": 344.14,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_07": {
+            "position": {
+                "x": 4973.98,
+                "y": 529.00,
+                "z": 6002.36
+            },
+            "rotation": {
+                "x": 0,
+                "y": 344.14,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_08": {
+            "position": {
+                "x": 4979.11,
+                "y": 529.00,
+                "z": 5940.35
+            },
+            "rotation": {
+                "x": 0,
+                "y": 344.14,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_09": {
+            "position": {
+                "x": 4990.62,
+                "y": 529.00,
+                "z": 5887.69
+            },
+            "rotation": {
+                "x": 0,
+                "y": 328.54,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_10": {
+            "position": {
+                "x": 4960,
+                "y": 529.00,
+                "z": 5998.50
+            },
+            "rotation": {
+                "x": 0,
+                "y": 344.14,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_11": {
+            "position": {
+                "x": 4964.66,
+                "y": 529.00,
+                "z": 5999.70
+            },
+            "rotation": {
+                "x": 0,
+                "y": 344.14,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_12": {
+            "position": {
+                "x": 4962.25,
+                "y": 529.00,
+                "z": 5935.58
+            },
+            "rotation": {
+                "x": 0,
+                "y": 337.08,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_13": {
+            "position": {
+                "x": 4970.17,
+                "y": 529.00,
+                "z": 5937.59
+            },
+            "rotation": {
+                "x": 0,
+                "y": 344.14,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_14": {
+            "position": {
+                "x": 4950.68,
+                "y": 529.00,
+                "z": 5995.71
+            },
+            "rotation": {
+                "x": 0,
+                "y": 344.14,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_15": {
+            "position": {
+                "x": 4955.34,
+                "y": 529.00,
+                "z": 5997.04
+            },
+            "rotation": {
+                "x": 0,
+                "y": 344.14,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_16": {
+            "position": {
+                "x": 4941.36,
+                "y": 529.00,
+                "z": 5993.05
+            },
+            "rotation": {
+                "x": 0,
+                "y": 344.14,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_17": {
+            "position": {
+                "x": 4946.02,
+                "y": 529.00,
+                "z": 5994.38
+            },
+            "rotation": {
+                "x": 0,
+                "y": 344.14,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_18": {
+            "position": {
+                "x": 4994.93,
+                "y": 529.00,
+                "z": 5889.97
+            },
+            "rotation": {
+                "x": 0,
+                "y": 344.14,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_19": {
+            "position": {
+                "x": 4897.61,
+                "y": 529.00,
+                "z": 6147.04
+            },
+            "rotation": {
+                "x": 0,
+                "y": 344.14,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_20": {
+            "position": {
+                "x": 4902.27,
+                "y": 529.00,
+                "z": 6148.37
+            },
+            "rotation": {
+                "x": 0,
+                "y": 344.14,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_21": {
+            "position": {
+                "x": 4906.93,
+                "y": 529.00,
+                "z": 6149.70
+            },
+            "rotation": {
+                "x": 0,
+                "y": 344.14,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_22": {
+            "position": {
+                "x": 4911.59,
+                "y": 529.00,
+                "z": 6151.03
+            },
+            "rotation": {
+                "x": 0,
+                "y": 344.14,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_23": {
+            "position": {
+                "x": 4916.25,
+                "y": 529.00,
+                "z": 6152.36
+            },
+            "rotation": {
+                "x": 0,
+                "y": 344.14,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_24": {
+            "position": {
+                "x": 4920.91,
+                "y": 529.00,
+                "z": 6153.69
+            },
+            "rotation": {
+                "x": 0,
+                "y": 344.14,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_25": {
+            "position": {
+                "x": 4925.57,
+                "y": 529.00,
+                "z": 6155.02
+            },
+            "rotation": {
+                "x": 0,
+                "y": 344.14,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_26": {
+            "position": {
+                "x": 4930.23,
+                "y": 529.00,
+                "z": 6156.35
+            },
+            "rotation": {
+                "x": 0,
+                "y": 344.14,
+                "z": 0
+            }
+        }
+    },
+    "segments": {
+        "SPOP_Bryson_Extra_Yard_00": {
+            "startId": "N2bg",
+            "endId": "NPOP_Bryson_Extra_Yard_00"
+        },
+        "SPOP_Bryson_Extra_Yard_01": {
+            "startId": "NPOP_Bryson_Extra_Yard_00",
+            "endId": "NPOP_Bryson_Extra_Yard_01"
+        },
+        "SPOP_Bryson_Extra_Yard_02": {
+            "startId": "NPOP_Bryson_Extra_Yard_01",
+            "endId": "NPOP_Bryson_Extra_Yard_02"
+        },
+        "SPOP_Bryson_Extra_Yard_03": {
+            "startId": "NPOP_Bryson_Extra_Yard_02",
+            "endId": "NPOP_Bryson_Extra_Yard_03"
+        },
+        "SPOP_Bryson_Extra_Yard_04": {
+            "startId": "NPOP_Bryson_Extra_Yard_04",
+            "endId": "NPOP_Bryson_Extra_Yard_18"
+        },
+        "SPOP_Bryson_Extra_Yard_05": {
+            "startId": "NPOP_Bryson_Extra_Yard_05",
+            "endId": "NPOP_Bryson_Extra_Yard_03"
+        },
+        "SPOP_Bryson_Extra_Yard_06": {
+            "startId": "NPOP_Bryson_Extra_Yard_06",
+            "endId": "NPOP_Bryson_Extra_Yard_04"
+        },
+        "SPOP_Bryson_Extra_Yard_07": {
+            "startId": "NPOP_Bryson_Extra_Yard_07",
+            "endId": "NPOP_Bryson_Extra_Yard_04"
+        },
+        "SPOP_Bryson_Extra_Yard_08": {
+            "startId": "NPOP_Bryson_Extra_Yard_08",
+            "endId": "NPOP_Bryson_Extra_Yard_18"
+        },
+        "SPOP_Bryson_Extra_Yard_09": {
+            "startId": "NPOP_Bryson_Extra_Yard_09",
+            "endId": "NPOP_Bryson_Extra_Yard_05"
+        },
+        "SPOP_Bryson_Extra_Yard_10": {
+            "startId": "NPOP_Bryson_Extra_Yard_10",
+            "endId": "NPOP_Bryson_Extra_Yard_08"
+        },
+        "SPOP_Bryson_Extra_Yard_11": {
+            "startId": "NPOP_Bryson_Extra_Yard_11",
+            "endId": "NPOP_Bryson_Extra_Yard_08"
+        },
+        "SPOP_Bryson_Extra_Yard_12": {
+            "startId": "NPOP_Bryson_Extra_Yard_12",
+            "endId": "NPOP_Bryson_Extra_Yard_09"
+        },
+        "SPOP_Bryson_Extra_Yard_13": {
+            "startId": "NPOP_Bryson_Extra_Yard_13",
+            "endId": "NPOP_Bryson_Extra_Yard_09"
+        },
+        "SPOP_Bryson_Extra_Yard_14": {
+            "startId": "NPOP_Bryson_Extra_Yard_14",
+            "endId": "NPOP_Bryson_Extra_Yard_13"
+        },
+        "SPOP_Bryson_Extra_Yard_15": {
+            "startId": "NPOP_Bryson_Extra_Yard_15",
+            "endId": "NPOP_Bryson_Extra_Yard_13"
+        },
+        "SPOP_Bryson_Extra_Yard_16": {
+            "startId": "NPOP_Bryson_Extra_Yard_16",
+            "endId": "NPOP_Bryson_Extra_Yard_12"
+        },
+        "SPOP_Bryson_Extra_Yard_17": {
+            "startId": "NPOP_Bryson_Extra_Yard_17",
+            "endId": "NPOP_Bryson_Extra_Yard_12"
+        },
+        "SPOP_Bryson_Extra_Yard_18": {
+            "startId": "NPOP_Bryson_Extra_Yard_18",
+            "endId": "NPOP_Bryson_Extra_Yard_05"
+        },
+        "SPOP_Bryson_Extra_Yard_19": {
+            "startId": "NPOP_Bryson_Extra_Yard_19",
+            "endId": "NPOP_Bryson_Extra_Yard_16"
+        },
+        "SPOP_Bryson_Extra_Yard_20": {
+            "startId": "NPOP_Bryson_Extra_Yard_20",
+            "endId": "NPOP_Bryson_Extra_Yard_17"
+        },
+        "SPOP_Bryson_Extra_Yard_21": {
+            "startId": "NPOP_Bryson_Extra_Yard_21",
+            "endId": "NPOP_Bryson_Extra_Yard_14"
+        },
+        "SPOP_Bryson_Extra_Yard_22": {
+            "startId": "NPOP_Bryson_Extra_Yard_22",
+            "endId": "NPOP_Bryson_Extra_Yard_15"
+        },
+        "SPOP_Bryson_Extra_Yard_23": {
+            "startId": "NPOP_Bryson_Extra_Yard_23",
+            "endId": "NPOP_Bryson_Extra_Yard_10"
+        },
+        "SPOP_Bryson_Extra_Yard_24": {
+            "startId": "NPOP_Bryson_Extra_Yard_24",
+            "endId": "NPOP_Bryson_Extra_Yard_11"
+        },
+        "SPOP_Bryson_Extra_Yard_25": {
+            "startId": "NPOP_Bryson_Extra_Yard_25",
+            "endId": "NPOP_Bryson_Extra_Yard_06"
+        },
+        "SPOP_Bryson_Extra_Yard_26": {
+            "startId": "NPOP_Bryson_Extra_Yard_26",
+            "endId": "NPOP_Bryson_Extra_Yard_07"
+        }
+    }
+}
