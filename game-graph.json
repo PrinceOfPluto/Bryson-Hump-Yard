@@ -26,13 +26,13 @@
         },
         "NPOP_Bryson_Extra_Yard_03": {
             "position": {
-                "x": 5024.16,
+                "x": 5012.05,
                 "y": 529.00,
-                "z": 5834.76
+                "z": 5854.19
             },
             "rotation": {
                 "x": 0,
-                "y": 328.54,
+                "y": 328.09,
                 "z": 0
             }
         },
@@ -311,6 +311,57 @@
                 "y": 344.14,
                 "z": 0
             }
+        },
+        "NPOP_Bryson_Extra_Yard_B_00": {
+            "position": {
+                "x": 5057.39,
+                "y": 529.00,
+                "z": 5658.20
+            },
+            "rotation": {
+                "x": 0,
+                "y": 215.63,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_B_01": {
+            "position": {
+                "x": 5077.06,
+                "y": 529.00,
+                "z": 5738.06
+            },
+            "rotation": {
+                "x": 0,
+                "y": 351.94,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_B_02": {
+            "position": {
+                "x": 5056.16,
+                "y": 529.00,
+                "z": 5792.15
+            },
+            "rotation": {
+                "x": 0,
+                "y": 328.54,
+                "z": 0
+            }
+        },
+        "NPOP_Bryson_Extra_Yard_B_03": {
+            "position": {
+                "x": 5040.49,
+                "y": 529.00,
+                "z": 5817.16
+            },
+            "rotation": {
+                "x": 0,
+                "y": 328.54,
+                "z": 0
+            }
+        },
+        "Nvlv": {
+            "flipSwitchStand": true
         }
     },
     "segments": {
@@ -417,6 +468,26 @@
         "SPOP_Bryson_Extra_Yard_26": {
             "startId": "NPOP_Bryson_Extra_Yard_26",
             "endId": "NPOP_Bryson_Extra_Yard_07"
+        },
+        "SPOP_Bryson_Extra_Yard_B_00": {
+            "startId": "Nvlv",
+            "endId": "NPOP_Bryson_Extra_Yard_B_00"
+        },
+        "SPOP_Bryson_Extra_Yard_B_01": {
+            "startId": "NPOP_Bryson_Extra_Yard_B_01",
+            "endId": "NPOP_Bryson_Extra_Yard_B_00"
+        },
+        "SPOP_Bryson_Extra_Yard_B_02": {
+            "startId": "NPOP_Bryson_Extra_Yard_B_02",
+            "endId": "NPOP_Bryson_Extra_Yard_B_01"
+        },
+        "SPOP_Bryson_Extra_Yard_B_03": {
+            "startId": "NPOP_Bryson_Extra_Yard_B_03",
+            "endId": "NPOP_Bryson_Extra_Yard_B_02"
+        },
+        "SPOP_Bryson_Extra_Yard_B_04": {
+            "startId": "NPOP_Bryson_Extra_Yard_03",
+            "endId": "NPOP_Bryson_Extra_Yard_B_03"
         }
     }
 }
